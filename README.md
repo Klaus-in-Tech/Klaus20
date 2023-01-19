@@ -15,14 +15,14 @@ I also like connecting with people that share the same niche with me.
 ### Feel free to get in touch with me on my socials:
 
 <a href="https://www.linkedin.com/in/kakooza-allan-klaus-56b7bb152/" target="_blank"> 
-  <img src="https://github.com/DwinaTech/public-images/blob/main/linkedin-icon.png" alt="LinkedIn-logo">
+  <img src="https://github.com/DwinaTech/public-images/blob/main/linkedin-icon.png" alt="LinkedIn-logo"/>
 </a>
 
 <a href="https://www.facebook.com/haula.zawedde?mibextid=ZbWKwL" target="_blank"> 
-  <img src="https://github.com/DwinaTech/public-images/blob/main/facebook-con.png" alt="Facebook-logo">
+  <img src="https://github.com/DwinaTech/public-images/blob/main/facebook-con.png" alt="Facebook-logo"/>
 </a>
 
 <a href="https://www.youtube.com/@klausteachestech" target="_blank"> 
-  <img src="https://github.com/DwinaTech/public-images/blob/main/youtube-icon.png" alt="YouTube-logo">
+  <img src="https://github.com/DwinaTech/public-images/blob/main/youtube-icon.png" alt="YouTube-logo"/>
 </a>
 
